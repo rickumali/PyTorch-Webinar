@@ -51,7 +51,6 @@ hidden2 = 20                    # The size of the \"inference layer\"
 out_dim = 1                     # Output a single value
 
 batches_in_data = X_train.shape[0]/batch_size
-epochs = int(5000/batches_in_data)
 learning_rate = 1e-4
 
 # Split the original data
