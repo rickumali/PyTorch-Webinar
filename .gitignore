@@ -12,3 +12,4 @@ external/*
 data/cell_images*
 **/*.pt
 data/cifar-10*
+venv/
